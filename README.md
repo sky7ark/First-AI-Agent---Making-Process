@@ -13,4 +13,4 @@ It demonstrates how to create a simple AI agent using Google’s **Agent Develop
 🚀 Outcome
 Created an interactive AI agent that can autonomously search for information and respond intelligently — the foundation for building more advanced autonomous AI systems.
 
-GOOGLE_API_KEY="AIzaSyDR_f1T_t35xcCeLRtemqXFrgO5BVszPKM"
+
